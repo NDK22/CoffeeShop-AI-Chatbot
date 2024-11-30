@@ -28,7 +28,7 @@ By working on this project, you’ll learn:
 ## 🧠 **Chatbot Architecture**
 The chatbot leverages a **modular, agent-based design**, where each agent is specialized for a specific task. This ensures scalability, efficiency, and platform-agnostic functionality across Android, iOS, and the web.
 
-![Coffee Shop Image](images/chatbot_agent_architecture.jpg)
+![Architecture Image](images/chatbot_agent_architecture.jpg)
 
 ### 🤖 **Core Agents**
 1. **Guard Agent**: Filters out harmful or irrelevant queries at the entry point.
@@ -48,6 +48,8 @@ The chatbot leverages a **modular, agent-based design**, where each agent is spe
 
 ## 📱 **React Native App Features**
 The front-end is a **React Native-based mobile app** designed to provide an intuitive and seamless customer experience. 
+
+![App_GIF](images/ReactNativeApp.gif)
 
 ### Core Screens
 - **Landing Page**: Welcome screen for the app.
