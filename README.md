@@ -48,8 +48,9 @@ The chatbot leverages a **modular, agent-based design**, where each agent is spe
 
 ## 📱 **React Native App Features**
 The front-end is a **React Native-based mobile app** designed to provide an intuitive and seamless customer experience. 
-
+<p align="center">
 ![App_GIF](images/ReactNativeApp.gif)
+</p>
 
 ### Core Screens
 - **Landing Page**: Welcome screen for the app.
