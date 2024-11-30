@@ -1,4 +1,4 @@
-# Coffee Shop AI Chatbot 🚀☕️
+# Coffee Shop AI Chatbot 🤖☕️
 
 Welcome to the **Coffee Shop AI Chatbot** repository! This project contains all the resources and code required to develop a sophisticated AI-powered chatbot tailored for customer engagement in a coffee shop application. Leveraging Large Language Models (LLMs), Natural Language Processing (NLP), and **RunPod's infrastructure**, the chatbot is integrated into a **React Native** app, enabling users to place orders, inquire about menu details, and receive personalized product recommendations.
 
